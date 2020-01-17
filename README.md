@@ -2,9 +2,9 @@
 
 This repo doesn't have strategy itself but have useful tools for fx trading.
 
-<strong>Backtesting</strong>
-Backtrader: https://github.com/mementum/backtrader
+<strong>Info</strong>
 
-<strong>Banker</strong>
-Oanda API (jp): http://developer.oanda.com/docs/jp/v1/guide/
+- `notebook/get_data_from_oanda.ipynb`: Notebook in order to get data from Oanda.
+  <br>
 
+- `backtest/`: Contains necessary files for backtesting.
